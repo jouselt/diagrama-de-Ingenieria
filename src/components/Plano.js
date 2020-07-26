@@ -37,26 +37,31 @@ export default class Plano extends Component {
         })
     };
     plus = () => {
-        const scale = this.state.value.scale
+        const scale = Math.round(((this.state.value.scale + 0.1) + Number.EPSILON) * 100) / 100
+        let {x, y} = this.state.value.translation
+        x = Math.round(((x * 1.1) + Number.EPSILON) * 1000) / 1000
+        y = Math.round(((y * 1.1) + Number.EPSILON) * 1000) / 1000
         this.setState({
             value: {
-                scale: scale + 0.1,
+                scale: scale,
                 translation: {
-                    x: -500,
-                    y: -500
+                    x: x,
+                    y: y
                 }
             }
         })
     };
     minus = () => {
-        const scale = this.state.value.scale - 0.1
-
+        const scale = Math.round(((this.state.value.scale - 0.1) + Number.EPSILON) * 100) / 100
+        let {x, y} = this.state.value.translation
+        x = Math.round(((x * 0.9) + Number.EPSILON) * 1000) / 1000
+        y = Math.round(((y * 0.9) + Number.EPSILON) * 1000) / 1000
         this.setState({
             value: {
                 scale: scale < 0 ? 0.1 : scale,
                 translation: {
-                    x: 50,
-                    y: 50
+                    x: x,
+                    y: y
                 }
             }
         })

@@ -4,13 +4,9 @@ import Plano from './components/Plano'
 import './App.css';
 
 function App() {
-
     return (
         <div className="App">
             <header className="App-header">
-                <p>
-                    Hey!
-                </p>
                 <Plano src={plano1}/>
             </header>
         </div>
