@@ -1,0 +1,3995 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52.636627in"
+   height="35.009846in"
+   viewBox="0 0 3789.8377 2520.7136"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st48"
+   version="1.1"
+   id="svg812"
+   sodipodi:docname="plano_1.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"><metadata
+   id="metadata816"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1035"
+   id="namedview814"
+   showgrid="false"
+   inkscape:zoom="0.21268492"
+   inkscape:cx="4698.3322"
+   inkscape:cy="2533.5431"
+   inkscape:window-x="0"
+   inkscape:window-y="23"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g810" />
+	<v:documentProperties
+   v:langID="1033"
+   v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud
+   v:nameU="msvNoAutoConnect"
+   v:val="VT0(1):26" />
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style
+   type="text/css"
+   id="style10">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.25}
+		.st3 {stroke:#bf9000;stroke-linecap:round;stroke-linejoin:round;stroke-width:6}
+		.st4 {fill:#ff0000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#00b050;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:url(#grad0-33);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {visibility:visible}
+		.st8 {fill:#ffffff;filter:url(#filter_2.6666667461395);stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round}
+		.st9 {fill:url(#grad0-53);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:#bfbfbf;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {fill:#fff2cc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st12 {fill:#7f7f7f;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st13 {stroke:#000000;stroke-dasharray:3.6,2.16;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st14 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st15 {marker-end:url(#mrkr13-114);stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st16 {fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1;stroke-width:0.54347826086957}
+		.st17 {fill:none;marker-end:url(#mrkr13-118);stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st18 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st19 {fill:#000000;font-family:Calibri;font-size:0.833336em}
+		.st20 {fill:#4bacc6}
+		.st21 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st22 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st23 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st24 {fill:#ffffff}
+		.st25 {marker-end:url(#mrkr13-118);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st26 {fill:#ffc000}
+		.st27 {stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:2}
+		.st28 {stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st29 {fill:#a5a5a5}
+		.st30 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st31 {fill:#40bf40;stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st32 {fill:#aaffaa;stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st33 {fill:#ffffff;stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st34 {fill:#ffffff;stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st35 {fill:#92cddc;stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st36 {fill:#205867;font-family:Calibri;font-size:0.666664em}
+		.st37 {font-size:1em}
+		.st38 {fill:#b7dde8;stroke:#b7dde8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75;visibility:hidden}
+		.st39 {fill:#b7dde8;stroke:#b7dde8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st40 {fill:#d5ffd5;font-family:Calibri;font-size:0.666664em}
+		.st41 {fill:url(#grad0-352);stroke:#00b050;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st42 {fill:#008000;font-family:Calibri;font-size:0.666664em}
+		.st43 {stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st44 {stroke:#92d050;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st45 {stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st46 {stroke:#ffc000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st47 {stroke:#7030a0;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st48 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Patterns_And_Gradients"><linearGradient
+     id="grad0-33"
+     x1="0"
+     y1="0"
+     x2="1"
+     y2="0"
+     gradientTransform="rotate(90,0.5,0.5)">
+			<stop
+   offset="0"
+   stop-color="#7f7f7f"
+   stop-opacity="1"
+   id="stop12" />
+			<stop
+   offset="0.49"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop14" />
+			<stop
+   offset="1"
+   stop-color="#7f7f7f"
+   stop-opacity="1"
+   id="stop16" />
+		</linearGradient><linearGradient
+     id="grad0-53"
+     x1="0"
+     y1="0"
+     x2="1"
+     y2="0"
+     gradientTransform="rotate(90,0.5,0.5)">
+			<stop
+   offset="0"
+   stop-color="#7f7f7f"
+   stop-opacity="1"
+   id="stop19" />
+			<stop
+   offset="0.54"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop21" />
+			<stop
+   offset="1"
+   stop-color="#7f7f7f"
+   stop-opacity="1"
+   id="stop23" />
+		</linearGradient><linearGradient
+     id="grad0-352"
+     x1="-0.140809"
+     y1="6679.2734"
+     x2="115.09427"
+     y2="6679.2734"
+     gradientTransform="scale(2.663182,0.37549067)"
+     gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0"
+   stop-color="#ffffff"
+   stop-opacity="1"
+   id="stop26" />
+			<stop
+   offset="1"
+   stop-color="#b7dde8"
+   stop-opacity="1"
+   id="stop28" />
+		</linearGradient><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-33"
+     id="linearGradient818"
+     gradientTransform="scale(2.9782885,0.33576331)"
+     x1="-0.12591124"
+     y1="7545.6572"
+     x2="52.628216"
+     y2="7545.6572"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-33"
+     id="linearGradient820"
+     gradientTransform="scale(2.1978686,0.45498626)"
+     x1="-0.17061985"
+     y1="5568.4209"
+     x2="38.760006"
+     y2="5568.4209"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-33"
+     id="linearGradient822"
+     gradientTransform="scale(2.9430015,0.33978915)"
+     x1="-0.12742093"
+     y1="7456.2559"
+     x2="52.001671"
+     y2="7456.2559"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-33"
+     id="linearGradient824"
+     gradientTransform="scale(2.8237405,0.35414019)"
+     x1="-0.13280258"
+     y1="7154.1016"
+     x2="49.883831"
+     y2="7154.1016"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-53"
+     id="linearGradient826"
+     gradientTransform="scale(0.86655518,1.1539946)"
+     x1="-0.43274799"
+     y1="2033.7747"
+     x2="176.6131"
+     y2="2033.7747"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-53"
+     id="linearGradient828"
+     gradientTransform="scale(0.86655518,1.1539946)"
+     x1="-0.43274799"
+     y1="2033.7747"
+     x2="176.6131"
+     y2="2033.7747"
+     gradientUnits="userSpaceOnUse" /><linearGradient
+     inkscape:collect="always"
+     xlink:href="#grad0-33"
+     id="linearGradient830"
+     gradientTransform="scale(2.1978686,0.45498626)"
+     x1="-0.17061985"
+     y1="5568.4209"
+     x2="38.760006"
+     y2="5568.4209"
+     gradientUnits="userSpaceOnUse" /></defs>
+	<defs
+   id="Markers"><g
+     id="lend13">
+			<path
+   d="M 3,1 0,0 3,-1 v 2"
+   style="stroke:none"
+   id="path32" />
+		</g><marker
+     id="mrkr13-114"
+     class="st16"
+     v:arrowType="13"
+     v:arrowSize="2"
+     v:setback="5.52"
+     refX="-5.52"
+     orient="auto"
+     markerUnits="strokeWidth"
+     overflow="visible">
+			<use
+   xlink:href="#lend13"
+   transform="scale(-1.84)"
+   id="use35"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</marker><marker
+     id="mrkr13-118"
+     class="st18"
+     v:arrowType="13"
+     v:arrowSize="2"
+     v:setback="13.08"
+     refX="-13.08"
+     orient="auto"
+     markerUnits="strokeWidth"
+     overflow="visible">
+			<use
+   xlink:href="#lend13"
+   transform="scale(-4.36)"
+   id="use38"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+		</marker></defs>
+	<defs
+   id="Filters"><filter
+     id="filter_2.6666667461395">
+			<feGaussianBlur
+   stdDeviation="2.6666667461395"
+   id="feGaussianBlur42" />
+		</filter></defs>
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g810"
+   transform="translate(-45.459537,-30.540767)">
+		<v:userDefs>
+			<v:ud
+   v:nameU="PEHideTags"
+   v:val="VT0(1):26" />
+		</v:userDefs>
+		<title
+   id="title46">Page-1</title>
+		<v:pageProperties
+   v:drawingScale="1"
+   v:pageScale="1"
+   v:drawingUnits="19"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="Flowchart"
+   v:index="0" />
+		<v:layer
+   v:name="Equipment"
+   v:index="1" />
+		<v:layer
+   v:name="Contenedor"
+   v:index="2" />
+		<v:layer
+   v:name="Instrumento"
+   v:index="3" />
+		<v:layer
+   v:name="Válvula"
+   v:index="4" />
+		<v:layer
+   v:name="Línea de señal"
+   v:index="5" />
+		<v:layer
+   v:name="Equipo"
+   v:index="6" />
+		<v:layer
+   v:name="FORMATO"
+   v:index="7"
+   color="#1e1e1e" />
+		<v:layer
+   v:name="DWGEntityColorOverrideLayer"
+   v:index="8"
+   v:visibility="hidden" />
+		<g
+   id="shape363-1"
+   v:mID="363"
+   v:groupContext="shape"
+   transform="matrix(1.0992224,0,0,0.99998559,45.868561,0.0186068)">
+			<title
+   id="title48">Sheet.363</title>
+			<rect
+   x="0"
+   y="30.8976"
+   width="3447"
+   height="2520"
+   class="st1"
+   id="rect50" />
+		</g>
+		<g
+   id="shape36-3"
+   v:mID="36"
+   v:groupContext="shape"
+   transform="translate(1045.56,-1149.15)">
+			<title
+   id="title53">Sheet.36</title>
+			<path
+   d="M 0,2400.63 V 2550.9 H 93.83"
+   class="st2"
+   id="path55" />
+		</g>
+		<g
+   id="shape37-6"
+   v:mID="37"
+   v:groupContext="shape"
+   transform="translate(984.674,-1267.38)">
+			<title
+   id="title58">Sheet.37</title>
+			<path
+   d="m 43.92,2518.87 v 32.03 H 0"
+   class="st2"
+   id="path60" />
+		</g>
+		<g
+   id="shape38-9"
+   v:mID="38"
+   v:groupContext="shape"
+   transform="translate(1666.63,-1148.5)">
+			<title
+   id="title63">Sheet.38</title>
+			<path
+   d="M 83.06,2399.98 V 2550.9 H 0"
+   class="st2"
+   id="path65" />
+		</g>
+		<g
+   id="shape39-12"
+   v:mID="39"
+   v:groupContext="shape"
+   transform="translate(1766.83,-1268.84)">
+			<title
+   id="title68">Sheet.39</title>
+			<path
+   d="m 0,2520.32 v 30.58 h 69.87"
+   class="st2"
+   id="path70" />
+		</g>
+		<g
+   id="shape40-15"
+   v:mID="40"
+   v:groupContext="shape"
+   transform="translate(1836.71,-1239.48)">
+			<title
+   id="title73">Sheet.40</title>
+			<path
+   d="m 0,2550.9 h 67.75 l -0.57,-42.88"
+   class="st3"
+   id="path75" />
+		</g>
+		<g
+   id="shape41-18"
+   v:mID="41"
+   v:groupContext="shape"
+   transform="rotate(90,1609.85,2878.39)">
+			<title
+   id="title78">Sheet.41</title>
+			<path
+   d="M 0,2550.9 H 42.88"
+   class="st3"
+   id="path80" />
+		</g>
+		<g
+   id="shape42-21"
+   v:mID="42"
+   v:groupContext="shape"
+   transform="translate(1904.46,-1239.48)">
+			<title
+   id="title83">Sheet.42</title>
+			<path
+   d="m 109.98,2453.63 v 97.27 H 0"
+   class="st3"
+   id="path85" />
+		</g>
+		<g
+   id="shape43-24"
+   v:mID="43"
+   v:groupContext="shape"
+   transform="translate(1894.25,-1282.36)">
+			<title
+   id="title88">Sheet.43</title>
+			<rect
+   x="0"
+   y="2491.53"
+   width="16.9629"
+   height="59.370098"
+   class="st4"
+   id="rect90" />
+		</g>
+		<g
+   id="shape44-26"
+   v:mID="44"
+   v:groupContext="shape"
+   transform="translate(1894.25,-1358.69)">
+			<title
+   id="title93">Sheet.44</title>
+			<rect
+   x="0"
+   y="2491.53"
+   width="16.9629"
+   height="59.370098"
+   class="st4"
+   id="rect95" />
+		</g>
+		<g
+   id="shape45-28"
+   v:mID="45"
+   v:groupContext="shape"
+   transform="translate(1928.17,-1282.36)">
+			<title
+   id="title98">Sheet.45</title>
+			<rect
+   x="0"
+   y="2491.53"
+   width="16.9629"
+   height="59.370098"
+   class="st5"
+   id="rect100" />
+		</g>
+		<g
+   id="shape46-30"
+   v:mID="46"
+   v:groupContext="shape"
+   transform="translate(1928.17,-1341.82)">
+			<title
+   id="title103">Sheet.46</title>
+			<rect
+   x="0"
+   y="2533.9299"
+   width="156.367"
+   height="16.9629"
+   class="st6"
+   id="rect105"
+   style="fill:url(#linearGradient818)" />
+		</g>
+		<g
+   id="shape47-34"
+   v:mID="47"
+   v:groupContext="shape"
+   transform="translate(2457.72,-1341.82)">
+			<title
+   id="title108">Sheet.47</title>
+			<rect
+   x="0"
+   y="2533.9299"
+   width="84.8144"
+   height="16.9629"
+   class="st6"
+   id="rect110"
+   style="fill:url(#linearGradient820)" />
+		</g>
+		<g
+   id="shape48-37"
+   v:mID="48"
+   v:groupContext="shape"
+   transform="translate(2206.1,-1341.82)">
+			<title
+   id="title113">Sheet.48</title>
+			<rect
+   x="0"
+   y="2533.9299"
+   width="152.666"
+   height="16.9629"
+   class="st6"
+   id="rect115"
+   style="fill:url(#linearGradient822)" />
+		</g>
+		<g
+   id="shape49-40"
+   v:mID="49"
+   v:groupContext="shape"
+   transform="translate(1911.21,-1282.36)">
+			<title
+   id="title118">Sheet.49</title>
+			<rect
+   x="0"
+   y="2415.1899"
+   width="16.9629"
+   height="135.703"
+   class="st1"
+   id="rect120" />
+		</g>
+		<g
+   id="shape50-42"
+   v:mID="50"
+   v:groupContext="shape"
+   transform="translate(1928.17,-1358.69)">
+			<title
+   id="title123">Sheet.50</title>
+			<rect
+   x="0"
+   y="2491.53"
+   width="16.9629"
+   height="59.370098"
+   class="st5"
+   id="rect125" />
+		</g>
+		<g
+   id="shape51-44"
+   v:mID="51"
+   v:groupContext="shape"
+   transform="translate(1770.72,-1341.82)">
+			<title
+   id="title128">Sheet.51</title>
+			<rect
+   x="0"
+   y="2533.9299"
+   width="140.48399"
+   height="16.9629"
+   class="st6"
+   id="rect130"
+   style="fill:url(#linearGradient824)" />
+		</g>
+		<g
+   id="shape52-47"
+   v:mID="52"
+   v:groupContext="shape"
+   transform="translate(2322.02,-1248.52)">
+			<title
+   id="title133">Sheet.52</title>
+			<g
+   id="shadow52-48"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0"
+   v:shadowOffsetY="-4"
+   v:shadowType="1"
+   transform="translate(0,4)"
+   class="st7">
+				<path
+   d="m 0,2415.19 v 67.86 l 152.67,67.85 v -203.56 z"
+   class="st8"
+   id="path135" />
+			</g>
+			<path
+   d="m 0,2415.19 v 67.86 l 152.67,67.85 v -203.56 z"
+   class="st9"
+   id="path138"
+   style="fill:url(#linearGradient826)" />
+		</g>
+		<g
+   id="shape53-54"
+   v:mID="53"
+   v:groupContext="shape"
+   transform="rotate(180,1114.36,1824.86)">
+			<title
+   id="title141">Sheet.53</title>
+			<g
+   id="shadow53-55"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0"
+   v:shadowOffsetY="-4"
+   v:shadowType="1"
+   transform="translate(0,-4)"
+   class="st7">
+				<path
+   d="m 0,2415.19 v 67.86 l 152.67,67.85 v -203.56 z"
+   class="st8"
+   id="path143" />
+			</g>
+			<path
+   d="m 0,2415.19 v 67.86 l 152.67,67.85 v -203.56 z"
+   class="st9"
+   id="path146"
+   style="fill:url(#linearGradient828)" />
+		</g>
+		<g
+   id="shape54-60"
+   v:mID="54"
+   v:groupContext="shape"
+   transform="translate(1762.24,-1299.41)">
+			<title
+   id="title149">Sheet.54</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect151" />
+		</g>
+		<g
+   id="shape55-62"
+   v:mID="55"
+   v:groupContext="shape"
+   transform="translate(1753.76,-1299.41)">
+			<title
+   id="title154">Sheet.55</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect156" />
+		</g>
+		<g
+   id="shape56-64"
+   v:mID="56"
+   v:groupContext="shape"
+   transform="translate(1745.28,-1299.41)">
+			<title
+   id="title159">Sheet.56</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect161" />
+		</g>
+		<g
+   id="shape57-66"
+   v:mID="57"
+   v:groupContext="shape"
+   transform="translate(1049.8,-1282.45)">
+			<title
+   id="title164">Sheet.57</title>
+			<rect
+   x="0"
+   y="2415.1899"
+   width="695.47803"
+   height="135.703"
+   class="st11"
+   id="rect166" />
+		</g>
+		<g
+   id="group58-68"
+   transform="translate(1828.17,-1298.97)"
+   v:mID="58"
+   v:groupContext="group"
+   v:layerMember="3">
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de instrumento"
+   v:type="0"
+   v:langID="3082"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl="Local / remoto"
+   v:type="1"
+   v:format="Local;Remoto;Auxiliar"
+   v:langID="3082"
+   v:val="VT4(Remoto)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ConnectionSize"
+   v:lbl="Tamaño de la conexión"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Service"
+   v:lbl="Servicio"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="SetWidth"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="ResizeWithText"
+   v:val="VT0(0):5" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(I-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-0"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(I-4)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(4):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-4"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<title
+   id="title169">Línea central de guiones</title>
+			<g
+   id="shape59-69"
+   v:mID="59"
+   v:groupContext="shape"
+   v:layerMember="3">
+				<title
+   id="title171">Sheet.59</title>
+				<path
+   d="m 8.49,2550.9 a 8.49,8.49 -180 0 0 0,-16.98 8.49,8.49 -180 1 0 0,16.98 z"
+   class="st12"
+   id="path173" />
+			</g>
+			<g
+   id="shape60-71"
+   v:mID="60"
+   v:groupContext="shape"
+   v:layerMember="3"
+   transform="translate(4.48988,-10.3329)">
+				<title
+   id="title176">Sheet.60</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="4"
+   cy="2548.5"
+   width="8"
+   height="4.80375" />
+			</g>
+			<g
+   id="shape61-72"
+   v:mID="61"
+   v:groupContext="shape"
+   v:layerMember="3">
+				<title
+   id="title179">Sheet.61</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:val="VT0(0.11811023622047):1" />
+					<v:ud
+   v:nameU="YOffset"
+   v:val="VT0(0):1" />
+					<v:ud
+   v:nameU="XOffset"
+   v:prompt=""
+   v:val="VT0(0.11791494710724):1" />
+				</v:userDefs>
+				<path
+   d="M 0,2542.41 H 16.98"
+   class="st13"
+   id="path181" />
+				<path
+   d="M 0,2542.41 H 16.98"
+   class="st13"
+   id="path183" />
+			</g>
+		</g>
+		<g
+   id="shape62-76"
+   v:mID="62"
+   v:groupContext="shape"
+   transform="translate(1041.32,-1299.41)">
+			<title
+   id="title187">Sheet.62</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect189" />
+		</g>
+		<g
+   id="shape63-78"
+   v:mID="63"
+   v:groupContext="shape"
+   transform="translate(1032.84,-1299.41)">
+			<title
+   id="title192">Sheet.63</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect194" />
+		</g>
+		<g
+   id="shape64-80"
+   v:mID="64"
+   v:groupContext="shape"
+   transform="translate(1024.36,-1299.41)">
+			<title
+   id="title197">Sheet.64</title>
+			<rect
+   x="0"
+   y="2449.1201"
+   width="8.4814301"
+   height="101.777"
+   class="st10"
+   id="rect199" />
+		</g>
+		<g
+   id="shape65-82"
+   v:mID="65"
+   v:groupContext="shape"
+   transform="translate(939.543,-1341.82)">
+			<title
+   id="title202">Sheet.65</title>
+			<rect
+   x="0"
+   y="2533.9299"
+   width="84.8144"
+   height="16.9629"
+   class="st6"
+   id="rect204"
+   style="fill:url(#linearGradient830)" />
+		</g>
+		<g
+   id="shape66-85"
+   v:mID="66"
+   v:groupContext="shape"
+   transform="translate(958.677,-1363.6)">
+			<title
+   id="title207">Sheet.66</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path209" />
+		</g>
+		<g
+   id="shape67-88"
+   v:mID="67"
+   v:groupContext="shape"
+   transform="translate(958.677,-1337.02)">
+			<title
+   id="title212">Sheet.67</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path214" />
+		</g>
+		<g
+   id="shape68-91"
+   v:mID="68"
+   v:groupContext="shape"
+   transform="translate(1809.07,-1363.32)">
+			<title
+   id="title217">Sheet.68</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path219" />
+		</g>
+		<g
+   id="shape69-94"
+   v:mID="69"
+   v:groupContext="shape"
+   transform="translate(1809.07,-1336.74)">
+			<title
+   id="title222">Sheet.69</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path224" />
+		</g>
+		<g
+   id="shape70-97"
+   v:mID="70"
+   v:groupContext="shape"
+   transform="translate(1987.65,-1363.32)">
+			<title
+   id="title227">Sheet.70</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path229" />
+		</g>
+		<g
+   id="shape71-100"
+   v:mID="71"
+   v:groupContext="shape"
+   transform="translate(1987.65,-1336.74)">
+			<title
+   id="title232">Sheet.71</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path234" />
+		</g>
+		<g
+   id="shape72-103"
+   v:mID="72"
+   v:groupContext="shape"
+   transform="translate(2484.98,-1363.32)">
+			<title
+   id="title237">Sheet.72</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path239" />
+		</g>
+		<g
+   id="shape73-106"
+   v:mID="73"
+   v:groupContext="shape"
+   transform="translate(2484.98,-1336.74)">
+			<title
+   id="title242">Sheet.73</title>
+			<path
+   d="M 0,2550.9 H 51.02"
+   class="st14"
+   id="path244" />
+		</g>
+		<g
+   id="shape74-109"
+   v:mID="74"
+   v:groupContext="shape"
+   transform="translate(2011.04,-903.574)">
+			<title
+   id="title247">Sheet.74</title>
+			<path
+   d="M 0,2550.9 H 247.06"
+   class="st15"
+   id="path249" />
+		</g>
+		<g
+   id="shape75-115"
+   v:mID="75"
+   v:groupContext="shape"
+   transform="translate(2066.31,-869.558)">
+			<title
+   id="title252">Sheet.75</title>
+			<desc
+   id="desc254">STEAM</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="51.0236"
+   cy="2538.14"
+   width="102.05"
+   height="25.5118" />
+			<rect
+   x="0"
+   y="2525.3899"
+   width="102.047"
+   height="25.511801"
+   class="st17"
+   id="rect256" />
+			<text
+   x="36.68"
+   y="2541.1399"
+   class="st19"
+   v:langID="1033"
+   id="text258"><v:paragraph
+   v:horizAlign="1" /><v:tabList />STEAM</text>		</g>
+		<g
+   id="shape76-120"
+   v:mID="76"
+   v:groupContext="shape"
+   v:layerMember="4"
+   transform="translate(2274.66,-886.566)">
+			<title
+   id="title261">Válvula de membrana</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de válvula"
+   v:type="1"
+   v:format="Membrana 1;Membrana 2;Membrana 3"
+   v:langID="3082"
+   v:val="VT4(Membrana 1)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="LineSize"
+   v:lbl="Tamaño de la línea"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ValveClass"
+   v:lbl="Clase de válvula"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-0"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,LineSize,ValveClass,Manufacturer,Model"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(V-0)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-5"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(V-5)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+			<v:textRect
+   cx="17.0079"
+   cy="2561.15"
+   width="80"
+   height="12.0036" />
+			<path
+   d="m 0,2542.39 v -17 l 34.02,17 v -17 z m 10.2,-21.26 h 13.61 a 7.5685,7.5685 -180 0 0 -13.61,0 z"
+   class="st20"
+   id="path263" />
+			<path
+   d="m 0,2542.39 v -17 l 34.02,17 v -17 l -34.02,17"
+   class="st21"
+   id="path265" />
+			<path
+   d="m 17.01,2533.89 v -12.76"
+   class="st21"
+   id="path267" />
+			<path
+   d="m 10.2,2521.13 h 13.61 a 7.5685,7.5685 -180 0 0 -13.61,0"
+   class="st21"
+   id="path269" />
+		</g>
+		<g
+   id="shape77-125"
+   v:mID="77"
+   v:groupContext="shape"
+   v:layerMember="5"
+   transform="translate(2300.65,-920.58)">
+			<title
+   id="title272">Neumático</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Línea de señal)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(S-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-0"
+   v:val="VT4(Señal)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(S-7)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(7):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-7"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="-9.23378"
+   cy="2469.27"
+   width="48"
+   height="15.2035" />
+			<path
+   d="m -8.98,2550.9 v -13.5 h -0.04 v -51.12"
+   class="st22"
+   id="path274" />
+		</g>
+		<g
+   id="group78-128"
+   transform="translate(2278.05,-985.203)"
+   v:mID="78"
+   v:groupContext="group"
+   v:layerMember="3">
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de instrumento"
+   v:type="0"
+   v:langID="3082"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl="Local / remoto"
+   v:type="1"
+   v:format="Local;Remoto;Auxiliar"
+   v:langID="3082"
+   v:val="VT4(Remoto)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ConnectionSize"
+   v:lbl="Tamaño de la conexión"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Service"
+   v:lbl="Servicio"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="SubType"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(TT)" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Local)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="SetWidth"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="ResizeWithText"
+   v:val="VT0(0):5" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(I-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-0"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TT)" />
+				<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(I-5)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-5"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<title
+   id="title277">Indicador</title>
+			<g
+   id="shape79-129"
+   v:mID="79"
+   v:groupContext="shape"
+   v:layerMember="3">
+				<title
+   id="title279">Sheet.79</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:val="VT0(0.11811023622047):1" />
+					<v:ud
+   v:nameU="YOffset"
+   v:val="VT0(0):1" />
+					<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:prompt=""
+   v:val="VT0(0.18856188355358):1" />
+				</v:userDefs>
+				<path
+   d="m 13.58,2550.9 a 13.58,13.58 -180 0 0 0,-27.16 13.58,13.58 -180 1 0 0,27.16 z"
+   class="st23"
+   id="path281" />
+			</g>
+			<g
+   id="shape80-131"
+   v:mID="80"
+   v:groupContext="shape"
+   v:layerMember="3"
+   transform="translate(3.57646,-14.3629)">
+				<title
+   id="title284">Sheet.80</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+					<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TT)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="10"
+   cy="2544.9"
+   width="20"
+   height="12.0036" />
+				<text
+   x="5.1300001"
+   y="2547.8999"
+   class="st19"
+   v:langID="3082"
+   id="text286"><v:paragraph
+   v:horizAlign="1" /><v:tabList />TT</text>			</g>
+		</g>
+		<g
+   id="shape81-133"
+   v:mID="81"
+   v:groupContext="shape"
+   v:layerMember="5"
+   transform="translate(2291.63,-1012.36)">
+			<title
+   id="title290">Eléctrico 3</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Línea de señal)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(S-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-0"
+   v:val="VT4(Señal)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(S-5)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-5"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="28.8"
+   cy="2468.54"
+   width="48"
+   height="15.2035" />
+			<path
+   d="m 0,2550.9 v -73.23 h 156.53"
+   class="st21"
+   id="path292" />
+		</g>
+		<g
+   id="group82-136"
+   transform="translate(2448.16,-1072.01)"
+   v:mID="82"
+   v:groupContext="group"
+   v:layerMember="3">
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de instrumento"
+   v:type="0"
+   v:langID="3082"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl="Local / remoto"
+   v:type="1"
+   v:format="Local;Remoto;Auxiliar"
+   v:langID="3082"
+   v:val="VT4(Remoto)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ConnectionSize"
+   v:lbl="Tamaño de la conexión"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Service"
+   v:lbl="Servicio"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="SubType"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(TIC)" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Local)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="SetWidth"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="ResizeWithText"
+   v:val="VT0(0):5" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(I-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-0"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TIC)" />
+				<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(I-6)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(6):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-6"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<title
+   id="title295">Indicador.47</title>
+			<g
+   id="shape83-137"
+   v:mID="83"
+   v:groupContext="shape"
+   v:layerMember="3">
+				<title
+   id="title297">Sheet.83</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:val="VT0(0.11811023622047):1" />
+					<v:ud
+   v:nameU="YOffset"
+   v:val="VT0(0):1" />
+					<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:prompt=""
+   v:val="VT0(0.18856188355358):1" />
+				</v:userDefs>
+				<path
+   d="m 13.58,2550.9 a 13.58,13.58 -180 0 0 0,-27.16 13.58,13.58 -180 1 0 0,27.16 z"
+   class="st23"
+   id="path299" />
+			</g>
+			<g
+   id="shape84-139"
+   v:mID="84"
+   v:groupContext="shape"
+   v:layerMember="3"
+   transform="translate(3.57646,-14.3629)">
+				<title
+   id="title302">Sheet.84</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+					<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TIC)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="10"
+   cy="2544.9"
+   width="20"
+   height="12.0036" />
+				<text
+   x="3.6400001"
+   y="2547.8999"
+   class="st19"
+   v:langID="3082"
+   id="text304"><v:paragraph
+   v:horizAlign="1" /><v:tabList />TIC</text>			</g>
+		</g>
+		<g
+   id="shape85-141"
+   v:mID="85"
+   v:groupContext="shape"
+   v:layerMember="5"
+   transform="translate(2452.75,-1072.01)">
+			<title
+   id="title308">Eléctrico 3.50</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Línea de señal)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(S-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-0"
+   v:val="VT4(Señal)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(S-8)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(8):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-8"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="37.8149"
+   cy="2579.22"
+   width="48"
+   height="15.2035" />
+			<path
+   d="m 8.99,2550.9 0.02,37.44"
+   class="st21"
+   id="path310" />
+		</g>
+		<g
+   id="group86-144"
+   transform="translate(2448.19,-1007.41)"
+   v:mID="86"
+   v:groupContext="group"
+   v:layerMember="3">
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de instrumento"
+   v:type="0"
+   v:langID="3082"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl="Local / remoto"
+   v:type="1"
+   v:format="Local;Remoto;Auxiliar"
+   v:langID="3082"
+   v:val="VT4(Remoto)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ConnectionSize"
+   v:lbl="Tamaño de la conexión"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Service"
+   v:lbl="Servicio"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="SubType"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(TT)" />
+				<v:cp
+   v:nameU="SubType2"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(Local)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="SetWidth"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="ResizeWithText"
+   v:val="VT0(0):5" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(I-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-0"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4(Instrumento)" />
+				<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TT)" />
+				<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(I-7)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(7):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="I-7"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<title
+   id="title313">Indicador.51</title>
+			<g
+   id="shape87-145"
+   v:mID="87"
+   v:groupContext="shape"
+   v:layerMember="3">
+				<title
+   id="title315">Sheet.87</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType2"
+   v:val="VT0(1):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:val="VT0(0.11811023622047):1" />
+					<v:ud
+   v:nameU="YOffset"
+   v:val="VT0(0):1" />
+					<v:ud
+   v:nameU="SubType2"
+   v:prompt=""
+   v:val="VT0(0):26" />
+					<v:ud
+   v:nameU="XOffset"
+   v:prompt=""
+   v:val="VT0(0.18856188355358):1" />
+				</v:userDefs>
+				<path
+   d="m 13.58,2550.9 a 13.58,13.58 -180 0 0 0,-27.16 13.58,13.58 -180 1 0 0,27.16 z"
+   class="st23"
+   id="path317" />
+			</g>
+			<g
+   id="shape88-147"
+   v:mID="88"
+   v:groupContext="shape"
+   v:layerMember="3"
+   transform="translate(3.57646,-14.3629)">
+				<title
+   id="title320">Sheet.88</title>
+				<v:userDefs>
+					<v:ud
+   v:nameU="SubType"
+   v:val="VT4()" />
+					<v:ud
+   v:nameU="SubType"
+   v:prompt=""
+   v:val="VT4(TT)" />
+				</v:userDefs>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="10"
+   cy="2544.9"
+   width="20"
+   height="12.0036" />
+				<text
+   x="5.1300001"
+   y="2547.8999"
+   class="st19"
+   v:langID="3082"
+   id="text322"><v:paragraph
+   v:horizAlign="1" /><v:tabList />TT</text>			</g>
+		</g>
+		<g
+   id="shape89-149"
+   v:mID="89"
+   v:groupContext="shape"
+   v:layerMember="6"
+   transform="translate(2444.74,-886.566)">
+			<title
+   id="title326">Intercambiador de calor 1</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Material"
+   v:lbl="Material"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Equipo)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(E-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="E-0"
+   v:val="VT4(Equipo)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,Material,Manufacturer,Model"
+   v:val="VT4(Equipo)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(E-4)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(4):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="E-4"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="17.0079"
+   cy="2563.95"
+   width="64"
+   height="17.6036" />
+			<path
+   d="m 0,2533.89 a 17.01,17.01 0 0 1 34.02,0 17.01,17.01 0 1 1 -34.02,0 z"
+   class="st24"
+   id="path328" />
+			<path
+   d="m 0,2533.44 h 4.25 l 8.51,-8.05 9.35,17 7.65,-8.95 h 4.26"
+   class="st22"
+   id="path330" />
+			<path
+   d="m 0,2533.89 a 17.01,17.01 0 0 1 34.02,0 17.01,17.01 0 1 1 -34.02,0"
+   class="st22"
+   id="path332" />
+		</g>
+		<g
+   id="shape90-153"
+   v:mID="90"
+   v:groupContext="shape"
+   v:layerMember="5"
+   transform="translate(2452.76,-920.582)">
+			<title
+   id="title335">Tubo capilar</title>
+			<v:userDefs>
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Línea de señal)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(S-0)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-0"
+   v:val="VT4(Señal)" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,ConnectionSize,Service,Manufacturer,Model"
+   v:val="VT4()" />
+				<v:ud
+   v:nameU="UnitSize"
+   v:val="VT0(0.11811023622047):24" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(S-6)" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(6):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="S-6"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)" />
+			<v:textRect
+   cx="37.7925"
+   cy="2528.28"
+   width="48"
+   height="15.2035" />
+			<path
+   d="m 8.99,2550.9 v -13.5 h 0.02 v -73.33"
+   class="st22"
+   id="path337" />
+		</g>
+		<g
+   id="shape91-156"
+   v:mID="91"
+   v:groupContext="shape"
+   transform="translate(2308.68,-903.574)">
+			<title
+   id="title340">Sheet.91</title>
+			<path
+   d="M 0,2550.9 H 136.06"
+   class="st22"
+   id="path342" />
+		</g>
+		<g
+   id="shape92-159"
+   v:mID="92"
+   v:groupContext="shape"
+   transform="translate(2478.76,-903.574)">
+			<title
+   id="title345">Sheet.92</title>
+			<path
+   d="M 0,2550.9 H 15.7"
+   class="st25"
+   id="path347" />
+		</g>
+		<g
+   id="shape93-164"
+   v:mID="93"
+   v:groupContext="shape"
+   v:layerMember="4"
+   transform="translate(2150.53,-889.998)">
+			<title
+   id="title350">Válvula de paso</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de válvula"
+   v:type="1"
+   v:format="De paso;Con manguito sobre el vástago;Bobina"
+   v:langID="3082"
+   v:val="VT4(De paso)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="LineSize"
+   v:lbl="Tamaño de la línea"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ValveClass"
+   v:lbl="Clase de válvula"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-0"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,LineSize,ValveClass,Manufacturer,Model"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(V-0)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-4"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(4):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(V-4)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+			<v:textRect
+   cx="13.5765"
+   cy="2560.29"
+   width="80"
+   height="12.0036" />
+			<path
+   d="m 0,2530.53 v 13.58 l 27.15,-13.58 v 13.58 z"
+   class="st26"
+   id="path352" />
+			<path
+   d="m 0,2530.53 v 13.58 l 27.15,-13.58 v 13.58 L 0,2530.53"
+   class="st27"
+   id="path354" />
+			<path
+   d="m 13.58,2537.32 v -13.58"
+   class="st27"
+   id="path356" />
+			<path
+   d="M 6.79,2523.74 H 20.36"
+   class="st27"
+   id="path358" />
+		</g>
+		<g
+   id="shape282-169"
+   v:mID="282"
+   v:groupContext="shape"
+   transform="rotate(180,918.355,2003.44)">
+			<title
+   id="title361">Sheet.282</title>
+			<path
+   d="M 0,2550.9 H 323.16"
+   class="st3"
+   id="path363" />
+		</g>
+		<g
+   id="shape283-172"
+   v:mID="283"
+   v:groupContext="shape"
+   transform="translate(1509.31,-1077.9)">
+			<title
+   id="title366">Sheet.283</title>
+			<rect
+   x="0"
+   y="2474.3601"
+   width="4.2407098"
+   height="76.5354"
+   class="st10"
+   id="rect368" />
+		</g>
+		<g
+   id="shape284-174"
+   v:mID="284"
+   v:groupContext="shape"
+   transform="rotate(180,754.655,1977.93)">
+			<title
+   id="title371">Sheet.284</title>
+			<path
+   d="M 0,2550.9 H 182.85"
+   class="st22"
+   id="path373" />
+		</g>
+		<g
+   id="shape285-177"
+   v:mID="285"
+   v:groupContext="shape"
+   transform="rotate(180,754.655,2007.695)">
+			<title
+   id="title376">Sheet.285</title>
+			<path
+   d="M 0,2550.9 H 182.85"
+   class="st22"
+   id="path378" />
+		</g>
+		<g
+   id="shape286-180"
+   v:mID="286"
+   v:groupContext="shape"
+   transform="rotate(90,1159.84,2375.73)">
+			<title
+   id="title381">Sheet.286</title>
+			<path
+   d="M 0,2550.9 H 241.83"
+   class="st3"
+   id="path383" />
+		</g>
+		<g
+   id="shape287-183"
+   v:mID="287"
+   v:groupContext="shape"
+   transform="translate(984.674,-1093.18)">
+			<title
+   id="title386">Sheet.287</title>
+			<path
+   d="M 0,2550.9 H 337.55"
+   class="st3"
+   id="path388" />
+		</g>
+		<g
+   id="shape288-186"
+   v:mID="288"
+   v:groupContext="shape"
+   transform="translate(1322.22,-1077.9)">
+			<title
+   id="title391">Sheet.288</title>
+			<rect
+   x="0"
+   y="2474.3601"
+   width="4.2407098"
+   height="76.5354"
+   class="st10"
+   id="rect393" />
+		</g>
+		<g
+   id="shape289-188"
+   v:mID="289"
+   v:groupContext="shape"
+   transform="rotate(90,1225.8,2494.25)">
+			<title
+   id="title396">Sheet.289</title>
+			<path
+   d="M 0,2550.9 H 34.47"
+   class="st28"
+   id="path398" />
+		</g>
+		<g
+   id="shape290-191"
+   v:mID="290"
+   v:groupContext="shape"
+   transform="rotate(90,1468.16,2736.61)">
+			<title
+   id="title401">Sheet.290</title>
+			<path
+   d="M 0,2550.9 H 34.47"
+   class="st28"
+   id="path403" />
+		</g>
+		<g
+   id="shape291-194"
+   v:mID="291"
+   v:groupContext="shape"
+   transform="translate(1169.15,-1196.96)">
+			<title
+   id="title406">Sheet.291</title>
+			<path
+   d="m 0,2525.39 v 25.51 h 561.26"
+   class="st28"
+   id="path408" />
+		</g>
+		<g
+   id="shape292-197"
+   v:mID="292"
+   v:groupContext="shape"
+   transform="rotate(90,1438.17,2766.6)">
+			<title
+   id="title411">Sheet.292</title>
+			<path
+   d="M 0,2550.9 H 25.51"
+   class="st28"
+   id="path413" />
+		</g>
+		<g
+   id="shape293-200"
+   v:mID="293"
+   v:groupContext="shape"
+   v:layerMember="4"
+   transform="rotate(-90,-20.28,1348.71)">
+			<title
+   id="title416">Válvula de paso.557</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de válvula"
+   v:type="1"
+   v:format="De paso;Con manguito sobre el vástago;Bobina"
+   v:langID="3082"
+   v:val="VT4(De paso)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="LineSize"
+   v:lbl="Tamaño de la línea"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ValveClass"
+   v:lbl="Clase de válvula"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-0"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,LineSize,ValveClass,Manufacturer,Model"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(V-0)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-6"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(6):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(V-6)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+			<v:textRect
+   cx="12.7559"
+   cy="2557.69"
+   width="48"
+   height="7.20349"
+   transform="rotate(90)" />
+			<path
+   d="m 0,2531.76 v 12.76 l 25.51,-12.76 v 12.76 z"
+   class="st29"
+   id="path418" />
+			<path
+   d="m 0,2531.76 v 12.76 l 25.51,-12.76 v 12.76 L 0,2531.76"
+   class="st21"
+   id="path420" />
+			<path
+   d="m 12.76,2538.14 v -12.75"
+   class="st21"
+   id="path422" />
+			<path
+   d="M 6.38,2525.39 H 19.13"
+   class="st21"
+   id="path424" />
+		</g>
+		<g
+   id="shape294-205"
+   v:mID="294"
+   v:groupContext="shape"
+   v:layerMember="4"
+   transform="rotate(-90,222.081,1106.349)">
+			<title
+   id="title427">Válvula de paso.558</title>
+			<v:custProps>
+				<v:cp
+   v:nameU="SubType"
+   v:lbl="Tipo de válvula"
+   v:type="1"
+   v:format="De paso;Con manguito sobre el vástago;Bobina"
+   v:langID="3082"
+   v:val="VT4(De paso)" />
+				<v:cp
+   v:nameU="Description"
+   v:lbl="Descripción"
+   v:type="0"
+   v:sortKey="0"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="LineSize"
+   v:lbl="Tamaño de la línea"
+   v:type="0"
+   v:sortKey="1"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="ValveClass"
+   v:lbl="Clase de válvula"
+   v:type="0"
+   v:sortKey="2"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Manufacturer"
+   v:lbl="Fabricante"
+   v:type="0"
+   v:sortKey="3"
+   v:langID="3082" />
+				<v:cp
+   v:nameU="Model"
+   v:lbl="Modelo"
+   v:type="0"
+   v:sortKey="4"
+   v:langID="3082" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="SubType"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt="Determines text control handle visibility."
+   v:val="VT0(5):26" />
+				<v:ud
+   v:nameU="SOLSH"
+   v:val="VT4({D7D7DB7E-3668-43e5-AF97-97F58AB229A5})" />
+				<v:ud
+   v:nameU="ShapeClass"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-0"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PETagNumber" />
+				<v:ud
+   v:nameU="PEHideTag" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PELayout"
+   v:val="VT0(31):26" />
+				<v:ud
+   v:nameU="CPMSetList"
+   v:prompt="Description,LineSize,ValveClass,Manufacturer,Model"
+   v:val="VT4(Válvula)" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:val="VT4(V-0)" />
+				<v:ud
+   v:nameU="TextCH"
+   v:prompt=""
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagFormat"
+   v:prompt="V-7"
+   v:val="VT0(0):26" />
+				<v:ud
+   v:nameU="PETagNumber"
+   v:prompt=""
+   v:val="VT0(7):26" />
+				<v:ud
+   v:nameU="PEPageHideTags"
+   v:prompt=""
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="PEComponentTag"
+   v:prompt=""
+   v:val="VT4(V-7)" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+			<v:textRect
+   cx="12.7559"
+   cy="2557.69"
+   width="48"
+   height="7.20349"
+   transform="rotate(90)" />
+			<path
+   d="m 0,2531.76 v 12.76 l 25.51,-12.76 v 12.76 z"
+   class="st29"
+   id="path429" />
+			<path
+   d="m 0,2531.76 v 12.76 l 25.51,-12.76 v 12.76 L 0,2531.76"
+   class="st21"
+   id="path431" />
+			<path
+   d="m 12.76,2538.14 v -12.75"
+   class="st21"
+   id="path433" />
+			<path
+   d="M 6.38,2525.39 H 19.13"
+   class="st21"
+   id="path435" />
+		</g>
+		<g
+   id="shape295-210"
+   v:mID="295"
+   v:groupContext="shape"
+   transform="translate(1664.93,-1137.43)">
+			<title
+   id="title438">Sheet.295</title>
+			<rect
+   x="0"
+   y="2518.8701"
+   width="1.69639"
+   height="32.032398"
+   class="st10"
+   id="rect440" />
+		</g>
+		<g
+   id="shape296-212"
+   v:mID="296"
+   v:groupContext="shape"
+   transform="rotate(180,832.465,1967.945)">
+			<title
+   id="title443">Sheet.296</title>
+			<path
+   d="M 0,2550.9 H 73.14"
+   class="st22"
+   id="path445" />
+		</g>
+		<g
+   id="shape297-215"
+   v:mID="297"
+   v:groupContext="shape"
+   transform="rotate(180,832.465,1980.4)">
+			<title
+   id="title448">Sheet.297</title>
+			<path
+   d="M 0,2550.9 H 73.14"
+   class="st22"
+   id="path450" />
+		</g>
+		<g
+   id="shape298-218"
+   v:mID="298"
+   v:groupContext="shape"
+   transform="translate(1590.09,-1137.43)">
+			<title
+   id="title453">Sheet.298</title>
+			<rect
+   x="0"
+   y="2518.8701"
+   width="1.69639"
+   height="32.032398"
+   class="st10"
+   id="rect455" />
+		</g>
+		<g
+   id="shape299-220"
+   v:mID="299"
+   v:groupContext="shape"
+   transform="translate(1591.79,-1153.02)">
+			<title
+   id="title458">Sheet.299</title>
+			<path
+   d="m 0,2546.93 c 3.11,-2.56 5.57,-1.23 7.66,-0.57 4.66,1.49 7.41,-0.29 11.9,0.01 3.07,0.2 6.95,1.37 9.64,1.13 2.15,-0.2 3.54,-1.28 5.67,-1.14 3.06,0.21 7.63,2.97 11.62,1.99 2.9,-0.71 5.49,-3.39 7.66,-2.84 1.96,0.5 3.57,3.65 5.67,4.82 5.22,2.92 13.45,-6.51 13.32,-3.4"
+   class="st22"
+   id="path460" />
+		</g>
+		<g
+   id="group300-223"
+   transform="translate(1326.46,-1086.7)"
+   v:mID="300"
+   v:groupContext="group">
+			<title
+   id="title463">Sheet.300</title>
+			<g
+   id="group301-224"
+   v:mID="301"
+   v:groupContext="group">
+				<title
+   id="title465">Sheet.301</title>
+				<g
+   id="shape302-225"
+   v:mID="302"
+   v:groupContext="shape">
+					<title
+   id="title467">Sheet.302</title>
+					<path
+   d="m 0,2508.38 v 42.52 h 182.85 v -42.52"
+   class="st30"
+   id="path469" />
+				</g>
+				<g
+   id="group303-228"
+   transform="translate(6.80699e-8,-43.0954)"
+   v:mID="303"
+   v:groupContext="group">
+					<title
+   id="title472">Sheet.303</title>
+					<g
+   id="shape304-229"
+   v:mID="304"
+   v:groupContext="shape"
+   transform="translate(-6.80699e-8,4.64032)">
+						<title
+   id="title474">Sheet.304</title>
+						<path
+   d="m 0,2546.83 c 3.86,-3.02 3.37,-1.32 3.41,0 0.17,5.17 8.45,4.55 13.61,2.84 3.65,-1.21 5.74,-2.98 8.5,-3.4 2.09,-0.33 4.56,0.11 7.09,0.56 4.47,0.8 9.11,1.63 13.61,0.57 2.9,-0.68 5.74,-2.16 8.5,-2.26 4.68,-0.18 9.11,3.59 13.61,3.4 3.97,-0.18 7.99,-3.44 11.9,-4.54 5.01,-1.41 9.84,0.74 15.31,2.27 3.37,0.94 6.98,1.65 10.2,1.7 3.57,0.05 6.67,-0.72 10.21,-0.57 5.6,0.24 12.34,2.78 18.14,1.13 3.35,-0.94 6.39,-3.29 9.64,-3.11 3.06,0.16 6.3,2.54 9.35,2.83 2.65,0.25 5.15,-1.07 7.66,-1.98 3.57,-1.31 7.18,-1.78 10.48,-1.42 5.01,0.54 9.33,3.01 11.63,1.98"
+   class="st30"
+   id="path476" />
+					</g>
+				</g>
+			</g>
+		</g>
+		<g
+   id="shape305-232"
+   v:mID="305"
+   v:groupContext="shape"
+   transform="rotate(90,1463.685,2817.625)">
+			<title
+   id="title482">Sheet.305</title>
+			<path
+   d="M 0,2550.9 H 42.52"
+   class="st28"
+   id="path484" />
+		</g>
+		<g
+   id="shape306-235"
+   v:mID="306"
+   v:groupContext="shape"
+   transform="rotate(90,1586.73,2800.88)">
+			<title
+   id="title487">Sheet.306</title>
+			<path
+   d="M 0,2550.9 H 241.83"
+   class="st3"
+   id="path489" />
+		</g>
+		<g
+   id="shape307-238"
+   v:mID="307"
+   v:groupContext="shape"
+   transform="translate(1730.41,-1116.5)">
+			<title
+   id="title492">Sheet.307</title>
+			<path
+   d="m 0,2525.71 v 25.19 h 99.21"
+   class="st28"
+   id="path494" />
+		</g>
+		<g
+   id="shape308-241"
+   v:mID="308"
+   v:groupContext="shape"
+   transform="translate(1842.66,-1116.17)">
+			<title
+   id="title497">Sheet.308</title>
+			<path
+   d="M 0,2550.9 H 678.61"
+   class="st28"
+   id="path499" />
+		</g>
+		<g
+   id="shape309-244"
+   v:mID="309"
+   v:groupContext="shape"
+   transform="translate(1214.22,-1141.46)">
+			<title
+   id="title502">Sheet.309</title>
+			<rect
+   x="0"
+   y="2518.8701"
+   width="1.69639"
+   height="32.032398"
+   class="st10"
+   id="rect504" />
+		</g>
+		<g
+   id="shape310-246"
+   v:mID="310"
+   v:groupContext="shape"
+   transform="rotate(180,607.11,1965.93)">
+			<title
+   id="title507">Sheet.310</title>
+			<path
+   d="M 0,2550.9 H 73.14"
+   class="st22"
+   id="path509" />
+		</g>
+		<g
+   id="shape311-249"
+   v:mID="311"
+   v:groupContext="shape"
+   transform="rotate(180,607.11,1978.39)">
+			<title
+   id="title512">Sheet.311</title>
+			<path
+   d="M 0,2550.9 H 73.14"
+   class="st22"
+   id="path514" />
+		</g>
+		<g
+   id="shape312-252"
+   v:mID="312"
+   v:groupContext="shape"
+   transform="translate(1139.39,-1141.46)">
+			<title
+   id="title517">Sheet.312</title>
+			<rect
+   x="0"
+   y="2518.8701"
+   width="1.69639"
+   height="32.032398"
+   class="st10"
+   id="rect519" />
+		</g>
+		<g
+   id="shape313-254"
+   v:mID="313"
+   v:groupContext="shape"
+   transform="translate(1141.08,-1157.05)">
+			<title
+   id="title522">Sheet.313</title>
+			<path
+   d="m 0,2546.93 c 3.11,-2.56 5.57,-1.23 7.66,-0.57 4.66,1.49 7.41,-0.29 11.9,0.01 3.07,0.2 6.95,1.37 9.64,1.13 2.15,-0.2 3.54,-1.28 5.67,-1.14 3.06,0.21 7.63,2.97 11.62,1.99 2.9,-0.71 5.49,-3.39 7.66,-2.84 1.96,0.5 3.57,3.65 5.67,4.82 5.22,2.92 13.45,-6.51 13.32,-3.4"
+   class="st22"
+   id="path524" />
+		</g>
+		<g
+   id="group314-257"
+   transform="translate(2602.06,-248.771)"
+   v:mID="314"
+   v:groupContext="group">
+			<v:custProps>
+				<v:cp
+   v:nameU="Dept"
+   v:lbl="Departamentos"
+   v:type="1"
+   v:format="1;2;3;4;5;6"
+   v:langID="3082"
+   v:val="VT4(6)" />
+				<v:cp
+   v:nameU="Phase"
+   v:lbl="Fases"
+   v:type="1"
+   v:format="1;2;3;4;5"
+   v:langID="3082"
+   v:val="VT4(5)" />
+				<v:cp
+   v:nameU="Dept"
+   v:lbl="LINEAS"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(5)" />
+				<v:cp
+   v:nameU="Phase"
+   v:lbl=""
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="0"
+   v:cal="0"
+   v:val="VT4(1)" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="Width"
+   v:val="VT0(1.1811023622047):24" />
+				<v:ud
+   v:nameU="HEIGHT"
+   v:val="VT0(0.24606299212598):24" />
+				<v:ud
+   v:nameU="Scale"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="Const"
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="AntiScale"
+   v:val="VT0(1):26" />
+				<v:ud
+   v:nameU="visVersion"
+   v:val="VT0(15):26" />
+			</v:userDefs>
+			<title
+   id="title527">Gráfico de distribución</title>
+			<g
+   id="shape315-258"
+   v:mID="315"
+   v:groupContext="shape"
+   transform="translate(969.449,-143.858)">
+				<title
+   id="title529">Sheet.315</title>
+				<desc
+   id="desc531">FASE 5</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="110.551"
+   cy="2542.04"
+   width="221.11"
+   height="17.7165" />
+				<rect
+   x="0"
+   y="2533.1799"
+   width="221.10201"
+   height="17.716499"
+   class="st31"
+   id="rect533" />
+			</g>
+			<g
+   id="shape316-260"
+   v:mID="316"
+   v:groupContext="shape"
+   transform="translate(969.449,-119.882)">
+				<title
+   id="title536">Sheet.316</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect538" />
+			</g>
+			<g
+   id="shape317-262"
+   v:mID="317"
+   v:groupContext="shape"
+   transform="translate(969.449,-95.9055)">
+				<title
+   id="title541">Sheet.317</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect543" />
+			</g>
+			<g
+   id="shape318-264"
+   v:mID="318"
+   v:groupContext="shape"
+   transform="translate(969.449,-71.9291)">
+				<title
+   id="title546">Sheet.318</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect548" />
+			</g>
+			<g
+   id="shape319-266"
+   v:mID="319"
+   v:groupContext="shape"
+   transform="translate(969.449,-47.9528)">
+				<title
+   id="title551">Sheet.319</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect553" />
+			</g>
+			<g
+   id="shape320-268"
+   v:mID="320"
+   v:groupContext="shape"
+   transform="translate(969.449,-23.9764)">
+				<title
+   id="title556">Sheet.320</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect558" />
+			</g>
+			<g
+   id="shape321-270"
+   v:mID="321"
+   v:groupContext="shape">
+				<title
+   id="title561">Sheet.321</title>
+				<desc
+   id="desc563">DPTO 6</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st31"
+   id="rect565" />
+			</g>
+			<g
+   id="shape322-272"
+   v:mID="322"
+   v:groupContext="shape"
+   transform="translate(85.0394)">
+				<title
+   id="title568">Sheet.322</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect570" />
+			</g>
+			<g
+   id="shape323-274"
+   v:mID="323"
+   v:groupContext="shape"
+   transform="translate(306.142)">
+				<title
+   id="title573">Sheet.323</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect575" />
+			</g>
+			<g
+   id="shape324-276"
+   v:mID="324"
+   v:groupContext="shape"
+   transform="translate(527.244)">
+				<title
+   id="title578">Sheet.324</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect580" />
+			</g>
+			<g
+   id="shape325-278"
+   v:mID="325"
+   v:groupContext="shape"
+   transform="translate(748.346)">
+				<title
+   id="title583">Sheet.325</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect585" />
+			</g>
+			<g
+   id="shape326-280"
+   v:mID="326"
+   v:groupContext="shape"
+   transform="translate(969.449)">
+				<title
+   id="title588">Sheet.326</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect590" />
+			</g>
+			<g
+   id="shape327-282"
+   v:mID="327"
+   v:groupContext="shape"
+   transform="translate(748.346,-23.9764)">
+				<title
+   id="title593">Sheet.327</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect595" />
+			</g>
+			<g
+   id="shape328-284"
+   v:mID="328"
+   v:groupContext="shape"
+   transform="translate(527.244,-23.9764)">
+				<title
+   id="title598">Sheet.328</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect600" />
+			</g>
+			<g
+   id="shape329-286"
+   v:mID="329"
+   v:groupContext="shape"
+   transform="translate(306.142,-23.9764)">
+				<title
+   id="title603">Sheet.329</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect605" />
+			</g>
+			<g
+   id="shape330-288"
+   v:mID="330"
+   v:groupContext="shape"
+   transform="translate(85.0394,-23.9764)">
+				<title
+   id="title608">Sheet.330</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st34"
+   id="rect610" />
+			</g>
+			<g
+   id="shape331-290"
+   v:mID="331"
+   v:groupContext="shape"
+   transform="translate(0,-23.9764)">
+				<title
+   id="title613">Sheet.331</title>
+				<desc
+   id="desc615">ACEITE ANÁLISIS DE PARTÍCULAS</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st35"
+   id="rect617" />
+				<text
+   x="10.4"
+   y="2536.51"
+   class="st36"
+   v:langID="3082"
+   id="text621"><v:paragraph
+   v:horizAlign="1" /><v:tabList />ACEITE ANÁLISIS DE <tspan
+   x="22.48"
+   dy="1.2em"
+   class="st37"
+   id="tspan619">PARTÍCULAS</tspan></text>			</g>
+			<g
+   id="shape332-294"
+   v:mID="332"
+   v:groupContext="shape"
+   transform="translate(748.346,-47.9528)">
+				<title
+   id="title624">Sheet.332</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect626" />
+			</g>
+			<g
+   id="shape333-296"
+   v:mID="333"
+   v:groupContext="shape"
+   transform="translate(527.244,-47.9528)">
+				<title
+   id="title629">Sheet.333</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect631" />
+			</g>
+			<g
+   id="shape334-298"
+   v:mID="334"
+   v:groupContext="shape"
+   transform="translate(306.142,-47.9528)">
+				<title
+   id="title634">Sheet.334</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect636" />
+			</g>
+			<g
+   id="shape335-300"
+   v:mID="335"
+   v:groupContext="shape"
+   transform="translate(85.0394,-47.9528)">
+				<title
+   id="title639">Sheet.335</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st34"
+   id="rect641" />
+			</g>
+			<g
+   id="shape336-302"
+   v:mID="336"
+   v:groupContext="shape"
+   transform="translate(0,-47.9528)">
+				<title
+   id="title644">Sheet.336</title>
+				<desc
+   id="desc646">AGUA DE ENFRIAMIENTO</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st35"
+   id="rect648" />
+				<text
+   x="1.15"
+   y="2541.3101"
+   class="st36"
+   v:langID="3082"
+   id="text650"><v:paragraph
+   v:horizAlign="1" /><v:tabList />AGUA DE ENFRIAMIENTO</text>			</g>
+			<g
+   id="shape337-305"
+   v:mID="337"
+   v:groupContext="shape"
+   transform="translate(748.346,-71.9291)">
+				<title
+   id="title653">Sheet.337</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect655" />
+			</g>
+			<g
+   id="shape338-307"
+   v:mID="338"
+   v:groupContext="shape"
+   transform="translate(527.244,-71.9291)">
+				<title
+   id="title658">Sheet.338</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect660" />
+			</g>
+			<g
+   id="shape339-309"
+   v:mID="339"
+   v:groupContext="shape"
+   transform="translate(306.142,-71.9291)">
+				<title
+   id="title663">Sheet.339</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect665" />
+			</g>
+			<g
+   id="shape340-311"
+   v:mID="340"
+   v:groupContext="shape"
+   transform="translate(85.0394,-71.9291)">
+				<title
+   id="title668">Sheet.340</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st34"
+   id="rect670" />
+			</g>
+			<g
+   id="shape341-313"
+   v:mID="341"
+   v:groupContext="shape"
+   transform="translate(0,-71.9291)">
+				<title
+   id="title673">Sheet.341</title>
+				<desc
+   id="desc675">ACEITE DE SELLO</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st35"
+   id="rect677" />
+				<text
+   x="15.18"
+   y="2541.3101"
+   class="st36"
+   v:langID="3082"
+   id="text679"><v:paragraph
+   v:horizAlign="1" /><v:tabList />ACEITE DE SELLO</text>			</g>
+			<g
+   id="shape342-316"
+   v:mID="342"
+   v:groupContext="shape"
+   transform="translate(748.346,-95.9055)">
+				<title
+   id="title682">Sheet.342</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect684" />
+			</g>
+			<g
+   id="shape343-318"
+   v:mID="343"
+   v:groupContext="shape"
+   transform="translate(527.244,-95.9055)">
+				<title
+   id="title687">Sheet.343</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect689" />
+			</g>
+			<g
+   id="shape344-320"
+   v:mID="344"
+   v:groupContext="shape"
+   transform="translate(306.142,-95.9055)">
+				<title
+   id="title692">Sheet.344</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect694" />
+			</g>
+			<g
+   id="shape345-322"
+   v:mID="345"
+   v:groupContext="shape"
+   transform="translate(85.0394,-95.9055)">
+				<title
+   id="title697">Sheet.345</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st34"
+   id="rect699" />
+			</g>
+			<g
+   id="shape346-324"
+   v:mID="346"
+   v:groupContext="shape"
+   transform="translate(0,-95.9055)">
+				<title
+   id="title702">Sheet.346</title>
+				<desc
+   id="desc704">ACEITE DE LUBRICACIÓN</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st35"
+   id="rect706" />
+				<text
+   x="2.5599999"
+   y="2541.3101"
+   class="st36"
+   v:langID="3082"
+   id="text708"><v:paragraph
+   v:horizAlign="1" /><v:tabList />ACEITE DE LUBRICACIÓN</text>			</g>
+			<g
+   id="shape347-327"
+   v:mID="347"
+   v:groupContext="shape"
+   transform="translate(748.346,-119.882)">
+				<title
+   id="title711">Sheet.347</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect713" />
+			</g>
+			<g
+   id="shape348-329"
+   v:mID="348"
+   v:groupContext="shape"
+   transform="translate(527.244,-119.882)">
+				<title
+   id="title716">Sheet.348</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st32"
+   id="rect718" />
+			</g>
+			<g
+   id="shape349-331"
+   v:mID="349"
+   v:groupContext="shape"
+   transform="translate(306.142,-119.882)">
+				<title
+   id="title721">Sheet.349</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st33"
+   id="rect723" />
+			</g>
+			<g
+   id="shape350-333"
+   v:mID="350"
+   v:groupContext="shape"
+   transform="translate(85.0394,-119.882)">
+				<title
+   id="title726">Sheet.350</title>
+				<rect
+   x="0"
+   y="2526.9199"
+   width="221.10201"
+   height="23.9764"
+   class="st34"
+   id="rect728" />
+			</g>
+			<g
+   id="shape351-335"
+   v:mID="351"
+   v:groupContext="shape"
+   transform="translate(0,-119.882)">
+				<title
+   id="title731">Sheet.351</title>
+				<desc
+   id="desc733">AIRE</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="42.5197"
+   cy="2538.91"
+   width="85.04"
+   height="23.9764" />
+				<rect
+   x="0"
+   y="2526.9199"
+   width="85.039398"
+   height="23.9764"
+   class="st35"
+   id="rect735" />
+				<text
+   x="35.07"
+   y="2541.3101"
+   class="st36"
+   v:langID="3082"
+   id="text737"><v:paragraph
+   v:horizAlign="1" /><v:tabList />AIRE</text>			</g>
+			<g
+   id="shape352-338"
+   v:mID="352"
+   v:groupContext="shape"
+   transform="translate(748.346,-143.858)">
+				<title
+   id="title740">Sheet.352</title>
+				<desc
+   id="desc742">FASE 4</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="110.551"
+   cy="2542.04"
+   width="221.11"
+   height="17.7165" />
+				<rect
+   x="0"
+   y="2533.1799"
+   width="221.10201"
+   height="17.716499"
+   class="st31"
+   id="rect744" />
+			</g>
+			<g
+   id="shape353-340"
+   v:mID="353"
+   v:groupContext="shape"
+   transform="translate(527.244,-143.858)">
+				<title
+   id="title747">Sheet.353</title>
+				<desc
+   id="desc749">FASE 3</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="110.551"
+   cy="2542.04"
+   width="221.11"
+   height="17.7165" />
+				<rect
+   x="0"
+   y="2533.1799"
+   width="221.10201"
+   height="17.716499"
+   class="st31"
+   id="rect751" />
+			</g>
+			<g
+   id="shape354-342"
+   v:mID="354"
+   v:groupContext="shape"
+   transform="translate(306.142,-143.858)">
+				<title
+   id="title754">Sheet.354</title>
+				<desc
+   id="desc756">FASE 2</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="110.551"
+   cy="2542.04"
+   width="221.11"
+   height="17.7165" />
+				<rect
+   x="0"
+   y="2533.1799"
+   width="221.10201"
+   height="17.716499"
+   class="st38"
+   id="rect758" />
+			</g>
+			<g
+   id="shape355-344"
+   v:mID="355"
+   v:groupContext="shape"
+   transform="translate(85.0394,-143.858)">
+				<title
+   id="title761">Sheet.355</title>
+				<desc
+   id="desc763">FASE 1</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="110.551"
+   cy="2542.04"
+   width="221.11"
+   height="17.7165" />
+				<rect
+   x="0"
+   y="2533.1799"
+   width="221.10201"
+   height="17.716499"
+   class="st39"
+   id="rect765" />
+				<text
+   x="99.68"
+   y="2544.4399"
+   class="st40"
+   v:langID="3082"
+   id="text767"><v:paragraph
+   v:horizAlign="1" /><v:tabList />FASE 1</text>			</g>
+			<g
+   id="shape356-347"
+   v:mID="356"
+   v:groupContext="shape"
+   transform="translate(0,-143.858)">
+				<title
+   id="title770">Sheet.356</title>
+				<rect
+   x="0"
+   y="2533.1799"
+   width="85.039398"
+   height="17.716499"
+   class="st39"
+   id="rect772" />
+			</g>
+			<g
+   id="shape357-349"
+   v:mID="357"
+   v:groupContext="shape"
+   transform="translate(0,-161.575)">
+				<title
+   id="title775">Sheet.357</title>
+				<desc
+   id="desc777">DESCRIPCIÓN DE LINEAS DE PROCESO</desc>
+				<v:textBlock
+   v:margins="rect(0,0,0,0)" />
+				<v:textRect
+   cx="153.071"
+   cy="2529.64"
+   width="306.15"
+   height="42.5197" />
+				<rect
+   x="0"
+   y="2508.3799"
+   width="306.142"
+   height="42.519699"
+   class="st41"
+   id="rect779"
+   style="fill:url(#grad0-352)" />
+				<text
+   x="91.790001"
+   y="2532.04"
+   class="st42"
+   v:langID="3082"
+   id="text781"><v:paragraph
+   v:horizAlign="1" /><v:tabList />DESCRIPCIÓN DE LINEAS DE PROCESO</text>			</g>
+		</g>
+		<g
+   id="shape358-354"
+   v:mID="358"
+   v:groupContext="shape"
+   transform="translate(2721.12,-380.298)">
+			<title
+   id="title785">Sheet.358</title>
+			<path
+   d="M 0,2550.9 H 144.57"
+   class="st43"
+   id="path787" />
+		</g>
+		<g
+   id="shape359-357"
+   v:mID="359"
+   v:groupContext="shape"
+   transform="translate(2721.12,-356.487)">
+			<title
+   id="title790">Sheet.359</title>
+			<path
+   d="M 0,2550.9 H 144.57"
+   class="st44"
+   id="path792" />
+		</g>
+		<g
+   id="shape360-360"
+   v:mID="360"
+   v:groupContext="shape"
+   transform="translate(2721.12,-332.676)">
+			<title
+   id="title795">Sheet.360</title>
+			<path
+   d="M 0,2550.9 H 144.57"
+   class="st45"
+   id="path797" />
+		</g>
+		<g
+   id="shape361-363"
+   v:mID="361"
+   v:groupContext="shape"
+   transform="translate(2721.12,-308.298)">
+			<title
+   id="title800">Sheet.361</title>
+			<path
+   d="M 0,2550.9 H 144.57"
+   class="st46"
+   id="path802" />
+		</g>
+		<g
+   id="shape362-366"
+   v:mID="362"
+   v:groupContext="shape"
+   transform="translate(2721.12,-286.124)">
+			<title
+   id="title805">Sheet.362</title>
+			<path
+   d="M 0,2550.9 H 144.57"
+   class="st47"
+   id="path807" />
+		</g>
+	</g>
+</svg>
