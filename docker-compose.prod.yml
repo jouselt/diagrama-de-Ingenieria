@@ -1,0 +1,11 @@
+version: '3.7'
+
+services:
+
+  planos-prod:
+    container_name: planos-prod
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - '1337:80'
