@@ -1,5 +1,5 @@
 import React from 'react';
-import plano1 from './assets/plano_1.svg'
+import plano1 from './assets/Plano2.png'
 import Plano from './components/Plano'
 import './App.css';
 

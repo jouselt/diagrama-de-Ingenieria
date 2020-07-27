@@ -11,6 +11,7 @@ export default class Plano extends Component {
             image: props.src,
             show: false,
             setShow: false,
+            pageTitle: 'Prueba Plano 1',
             title: 'Titulo',
             text: 'Texto',
             value: {
@@ -29,6 +30,12 @@ export default class Plano extends Component {
             show: true,
             text,
             title
+        })
+    }
+
+    setMsg = (e, pageTitle) => {
+        this.setState({
+            pageTitle: pageTitle
         })
     }
     handleClose = () => {
@@ -80,13 +87,12 @@ export default class Plano extends Component {
 
     render() {
         const {scale, translation} = this.state.value;
-        const {show, title, text} = this.state;
+        const {show, title, text, pageTitle} = this.state;
 
         return (
             <>
                 <div className="container">
-                    <p>Prueba Plano 1 </p>
-                    <small> escala: {scale} coordenadas: ({translation.x}, {translation.y}) </small>
+                    <h1>{pageTitle}</h1>
                     <Button variant="primary ml-5" onClick={this.plus}>
                         Acercar
                     </Button>
@@ -101,9 +107,13 @@ export default class Plano extends Component {
                         onChange={(value) => this.setState({value})}>
                         <img src={this.state.image} useMap="#image-map" alt='he'/>
                     </MapInteractionCSS>
+                    <small> escala: {scale} coordenadas: ({translation.x}, {translation.y}) </small>
+
                     <map id="image-map" name="image-map">
                         <area
                             onClick={e => this.consoleMessage(e, 'Componente 1', "info del componente 1")}
+                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                            onMouseOver={(e) => this.setMsg(e, 'Componente 1')}
                             shape="rect"
                             coords="2301,1647,1310,1464"
                             alt="ll"/>
@@ -111,21 +121,29 @@ export default class Plano extends Component {
                             coords="2716,1433,2913,1522,2913,1607,2716,1701"
                             shape="poly"
                             onClick={e => this.consoleMessage(e, 'Componente 2', "info del componente 2")}
+                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                            onMouseOver={(e) => this.setMsg(e, 'Componente 2')}
                             alt="ll"/>
                         <area
                             coords="3042,1513,3238,1433,3243,1696,3042,1607"
                             shape="poly"
                             onClick={e => this.consoleMessage(e, 'Componente 3', "info del tercer componente")}
+                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                            onMouseOver={(e) => this.setMsg(e, 'Componente 3')}
                             alt="ll"/>
                         <area
                             coords="3819,2999,3413,2754"
                             shape="rect"
                             onClick={e => this.consoleMessage(e, 'lista de detalles', "info del componentes")}
+                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                            onMouseOver={(e) => this.setMsg(e, 'Descripción de lineas de proceso')}
                             alt="ll"/>
                         <area
                             coords="1703,1821,1953,1924"
                             shape="rect"
                             onClick={e => this.consoleMessage(e, 'Componente 5', "info del componente 5")}
+                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                            onMouseOver={(e) => this.setMsg(e, 'Componente 5')}
                             alt="ll"/>
                     </map>
 
