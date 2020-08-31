@@ -6,14 +6,15 @@ import Button from 'react-bootstrap/Button'
 export default class Plano extends Component {
     constructor(props) {
         super(props);
-
+        const {data, src} = props
         this.state = {
-            image: props.src,
+            image: src,
             show: false,
             setShow: false,
-            pageTitle: 'Prueba Plano 1',
+            pageTitle: data.name,
+            activeCoordinates: data.activeCoordinates,
             title: 'Titulo',
-            text: 'Texto',
+            attributes: [{name: "", description: "", key: ""}],
             value: {
                 scale: 0.3,
                 translation: {
@@ -24,11 +25,11 @@ export default class Plano extends Component {
         };
     }
 
-    consoleMessage = (e, title, text) => {
+    consoleMessage = (e, title, attributes) => {
         e.preventDefault();
         this.setState({
             show: true,
-            text,
+            attributes,
             title
         })
     }
@@ -87,7 +88,7 @@ export default class Plano extends Component {
 
     render() {
         const {scale, translation} = this.state.value;
-        const {show, title, text, pageTitle} = this.state;
+        const {show, title, attributes, pageTitle} = this.state;
 
         return (
             <>
@@ -110,41 +111,16 @@ export default class Plano extends Component {
                     <small> escala: {scale} coordenadas: ({translation.x}, {translation.y}) </small>
 
                     <map id="image-map" name="image-map">
-                        <area
-                            onClick={e => this.consoleMessage(e, 'Componente 1', "info del componente 1")}
-                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
-                            onMouseOver={(e) => this.setMsg(e, 'Componente 1')}
-                            shape="rect"
-                            coords="2301,1647,1310,1464"
-                            alt="ll"/>
-                        <area
-                            coords="2716,1433,2913,1522,2913,1607,2716,1701"
-                            shape="poly"
-                            onClick={e => this.consoleMessage(e, 'Componente 2', "info del componente 2")}
-                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
-                            onMouseOver={(e) => this.setMsg(e, 'Componente 2')}
-                            alt="ll"/>
-                        <area
-                            coords="3042,1513,3238,1433,3243,1696,3042,1607"
-                            shape="poly"
-                            onClick={e => this.consoleMessage(e, 'Componente 3', "info del tercer componente")}
-                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
-                            onMouseOver={(e) => this.setMsg(e, 'Componente 3')}
-                            alt="ll"/>
-                        <area
-                            coords="3819,2999,3413,2754"
-                            shape="rect"
-                            onClick={e => this.consoleMessage(e, 'lista de detalles', "info del componentes")}
-                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
-                            onMouseOver={(e) => this.setMsg(e, 'Descripción de lineas de proceso')}
-                            alt="ll"/>
-                        <area
-                            coords="1703,1821,1953,1924"
-                            shape="rect"
-                            onClick={e => this.consoleMessage(e, 'Componente 5', "info del componente 5")}
-                            onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
-                            onMouseOver={(e) => this.setMsg(e, 'Componente 5')}
-                            alt="ll"/>
+                        {this.state.activeCoordinates.map(activeArea => {
+                            return <area
+                                onClick={e => this.consoleMessage(e, activeArea.infoTitle, activeArea.infoList)}
+                                onMouseLeave={(e => this.setMsg(e, 'Prueba Plano 1'))}
+                                onMouseOver={(e) => this.setMsg(e, activeArea.hoverMsg)}
+                                shape={activeArea.shape}
+                                key={activeArea.id}
+                                coords={activeArea.coords}
+                                alt={activeArea.altText}/>
+                        })}
                     </map>
 
                 </div>
@@ -152,7 +128,12 @@ export default class Plano extends Component {
                     <Modal.Header closeButton>
                         <Modal.Title>{title}</Modal.Title>
                     </Modal.Header>
-                    <Modal.Body>{text}</Modal.Body>
+                    <Modal.Body>{attributes.map(attribute => {
+                        return (<div key={attribute.key}>
+                            <p>{attribute.name}</p>
+                            <p>{attribute.description}</p>
+                        </div>)
+                    })}</Modal.Body>
                     <Modal.Footer>
                         <Button variant="primary" onClick={this.handleClose}>
                             Cerrar
