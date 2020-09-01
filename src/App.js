@@ -1,6 +1,7 @@
 import React from 'react';
 import Planos from './pages/Planos/Planos'
 import Home from './pages/Home/Home'
+import Error from "./pages/Error/Error"
 import Details from "./pages/Details/Details";
 import './App.css';
 import Navbar from "./pages/commons/Navbar";

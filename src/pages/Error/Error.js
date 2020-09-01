@@ -1,14 +1,15 @@
 import React from 'react'
-import Hero from "../components/Hero"
-import Banner from "../components/Banner"
+import Hero from '../commons/Hero'
 import {Link} from "react-router-dom"
+import Banner from "../commons/Banner"
+import './Error.css'
 
 export default function Error() {
     return (
         <Hero >
-            <Banner title="404" subtitle="Page not found">
+            <Banner title="404" subtitle="Esta página no existe">
                 <Link to="/" className="btn-primary">
-                    Go Home
+                    Volver
                 </Link>
             </Banner>
         </Hero>

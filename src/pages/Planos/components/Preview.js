@@ -1,14 +1,14 @@
 import React from 'react'
-import defaultImage from "../../assets/Plano2.png";
+import defaultImage from "../../../assets/blueprint-bg.svg";
 import {Link} from "react-router-dom"
 import PropTypes from "prop-types"
 
 export default function Preview({plano}) {
-    const {img, name, id} = plano
+    const {name, id} = plano
     return (
         <article className="plano">
             <div className="img-container">
-                <img src={img || defaultImage} alt={name}/>
+                <img src={defaultImage} alt={name}/>
                 <Link to={`/planos/${id}`} className="btn-primary plano-link">
                     Ver
                 </Link>

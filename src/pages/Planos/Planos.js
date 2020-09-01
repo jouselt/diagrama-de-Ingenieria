@@ -1,5 +1,5 @@
 import React from 'react'
-import Preview from "../commons/Preview";
+import Preview from "./components/Preview";
 import {PlanosConsumer} from '../../core/Context'
 import Loading from "../commons/Loading";
 
@@ -13,8 +13,8 @@ export default function Planos() {
                     return <Loading/>
                 } else {
                     return (
-                        <section className="planos container">
-                            <div className="planos-center">
+                        <section className="planoslist container">
+                            <div className="planoslist-center">
                                 {planos.map(plano => {
                                     return <Preview key={plano.id} plano={plano}/>
                                 })}
